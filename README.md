@@ -22,6 +22,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-986742?style=flat&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-532456?style=flat&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-438469?style=flat&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlp-776313?style=flat&logo=Sqlp&logoColor=white"/>
   
 ### 😃:Day-By-Day
