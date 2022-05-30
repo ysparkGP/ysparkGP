@@ -1,4 +1,5 @@
-### Hi there 👋
+### 반갑습니다
+#### 알고리즘과 백엔드에 관심있는 흔한 개발자 취준생입니다!
 
 ### :muscle:Skills
 
@@ -7,6 +8,7 @@
 <img src="https://img.shields.io/badge/Spring-red?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-yellow?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBatch-green?style=flat&logo=SpringBatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-031576?style=flat&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-purple?style=flat&logo=Mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-008743?style=flat&logo=JPA&logoColor=white"/>
