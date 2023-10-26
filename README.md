@@ -29,4 +29,4 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ad9720)](https://solved.ac/ad9720)
   
 ###
-![Yusung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusung9270&show_icons=true&theme=radical)
+![Yusung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysparkGP&show_icons=true&theme=radical)
